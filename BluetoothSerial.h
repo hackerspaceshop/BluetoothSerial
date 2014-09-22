@@ -1,3 +1,30 @@
+/*-------------------------------------------------------------------------
+  
+  Arduino library for the Teensy3Bluetooth Serial shield available at the hackerspaceshop.com
+
+  Check it out here:
+  http://www.hackerspaceshop.com/teensy/teensy-3-1-bluetooth-module.html
+
+
+  Written by Amir Hassan and Florian Bittner for hackerspaceshop.com,
+  contributions by members of the open source community.
+
+
+  This is free software: you can redistribute it and/or modify
+  it under the terms of the GNU Lesser General Public License as
+  published by the Free Software Foundation, either version 3 of
+  the License, or (at your option) any later version.
+
+  This library is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU Lesser General Public License for more details.
+
+  You should have received a copy of the GNU Lesser General Public
+  License along with this library.  If not, see
+  <http://www.gnu.org/licenses/>.
+  -------------------------------------------------------------------------*/
+
 #ifndef __BLUETOOTHSERIAL_H__
 
 #if (ARDUINO >= 100)
