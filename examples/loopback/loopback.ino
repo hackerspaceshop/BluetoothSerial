@@ -2,7 +2,7 @@
 #include <BluetoothSerial.h>
 
 void setup() {
-  BTSerial.begin(9600, "1234", "blabla");
+  BTSerial.begin(9600);
 }
 
 void loop() {
