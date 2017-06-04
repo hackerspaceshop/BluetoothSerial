@@ -192,6 +192,6 @@ void BluetoothSerial::flush() {
 }
 
 size_t BluetoothSerial::write(uint8_t c) {
-  mySerial.write(c);
+  return mySerial.write(c);
 }
 
